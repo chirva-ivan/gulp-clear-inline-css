@@ -1,0 +1,26 @@
+{
+  "name": "gulp-clear-inline-css",
+  "version": "1.0.0",
+  "description": "Simple gulp plugin for clearing HTML inline CSS styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirva-ivan/gulp-clear-inline-css.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "inline",
+    "css",
+    "html",
+    "email"
+  ],
+  "author": "\"inline\",",
+  "license": "    MIT",
+  "bugs": {
+    "url": "https://github.com/chirva-ivan/gulp-clear-inline-css/issues"
+  },
+  "homepage": "https://github.com/chirva-ivan/gulp-clear-inline-css#readme"
+}
