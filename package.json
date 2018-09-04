@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/chirva-ivan/gulp-clear-inline-css/issues"
   },
-  "homepage": "https://github.com/chirva-ivan/gulp-clear-inline-css#readme"
+  "homepage": "https://github.com/chirva-ivan/gulp-clear-inline-css#readme",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
 }
