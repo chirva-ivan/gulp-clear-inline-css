@@ -1,6 +1,6 @@
 {
   "name": "gulp-clear-inline-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple gulp plugin for clearing HTML inline CSS styles",
   "main": "index.js",
   "scripts": {
