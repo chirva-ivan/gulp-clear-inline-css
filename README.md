@@ -15,3 +15,16 @@ gulp.task('remove-inline-styles', function() {
     .pipe(gulp.dest('./clear-templates/'));
 });
 ```
+Input:
+```html
+<body>
+  <p class="marked-text" style="font-size: 16px; line-height: 1.56; font-weight: 500;">Test</p>
+</body>
+```
+
+Output:
+```html
+<body>
+  <p class="marked-text">Test</p>
+</body>
+```
